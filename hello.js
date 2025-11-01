@@ -1,3 +1,8 @@
 const a=()=>{
-    return "rivky"
+    return 100;
+
+}
+const b=()=>{
+    return "rivky";
+    
 }
