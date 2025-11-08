@@ -1,5 +1,10 @@
 
+const newA = () => {
+    return "newA";
 
-const a=()=>{
-    return 100;
+}
+
+const b = () => {
+    return "bbb";
+
 }
