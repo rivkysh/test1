@@ -1,7 +1,6 @@
 
 const newA = () => {
     return "newA";
-
 }
 
 const b = () => {
