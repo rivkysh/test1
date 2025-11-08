@@ -8,3 +8,7 @@ const b = () => {
     return "bbb";
 
 }
+const c = () => {
+    return "ccccc";
+
+}
